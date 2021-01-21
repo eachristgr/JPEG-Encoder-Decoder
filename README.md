@@ -2,7 +2,11 @@
 
 ##### **Aristotle University of Thessaloniki - Electrical and Computer Engineering**
 
-##### **Multimedia Systems and Virtual Reality**
+##### **Course : Multimedia Systems and Virtual Reality**
+
+##### **Author : [Emmanouil Christos](https://github.com/eachristgr)**
+
+------
 
 This repository contains the assignment for the course of Multimedia Systems and Virtual Reality.
 
